@@ -1,3 +1,13 @@
+# Live Build Deployment
+https://vigilant-northcutt-f6c9da.netlify.app/
+
+This app lets you search youtube videos in a custome time upload date.\
+Want to search a video from the night of Dec 10, 2010.\
+Want to see yesterday's sunrise from Japan. Well, set the time accordingly.\
+Looking for Joe Biden's speech and not the news commentary published 2 hours later?
+We got you covered.\
+Set any date-time range and search on YouTube.
+
 # Getting Started 
 
 This project was built with React JS library.\
